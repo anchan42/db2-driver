@@ -1,9 +1,9 @@
 <?php
 
-namespace BWICompanies\DB2Driver;
+namespace anchan42Driver;
 
-use BWICompanies\DB2Driver\Schema\DB2Builder;
-use BWICompanies\DB2Driver\Schema\DB2SchemaGrammar;
+use anchan42\DB2Driver\Schema\DB2Builder;
+use anchan42\DB2Driver\Schema\DB2SchemaGrammar;
 use Illuminate\Database\Connection;
 use PDO;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace BWICompanies\DB2Driver\Schema;
+namespace anchan42\DB2Driver\Schema;
 
 use Closure;
 use Illuminate\Database\Schema\Blueprint;

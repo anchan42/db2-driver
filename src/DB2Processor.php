@@ -1,8 +1,8 @@
 <?php
 
-namespace BWICompanies\DB2Driver;
+namespace anchan42\DB2Driver;
 
-use BWICompanies\DB2Driver\DB2QueryGrammar;
+use anchan42\DB2Driver\DB2QueryGrammar;
 use Illuminate\Database\Query\Builder;
 use Illuminate\Database\Query\Processors\Processor;
 
